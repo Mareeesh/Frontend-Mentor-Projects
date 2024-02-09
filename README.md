@@ -1,1 +1,1 @@
-#This folder contains all frontend mentor projects
+# This folder contains all frontend mentor projects
